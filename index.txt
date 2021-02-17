@@ -3,3 +3,4 @@ A
 B
 C
 D - changes from local env
+E - inline changes on the Git Iterface
