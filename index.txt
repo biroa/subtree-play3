@@ -7,3 +7,4 @@ E - inline changes on the Git Iterface
 F - another local from 2021-02-18
 G - another local from 2021-02-18 14:32
 H - changes on GitHub 2021-03-01 11:36
+I - new changes after deploy and tagged version
